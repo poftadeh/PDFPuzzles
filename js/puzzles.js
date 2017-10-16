@@ -135,7 +135,7 @@ var puzzles = [{
         "Level": "Pawn",
         "Module": "Knight Moves",
         "FEN": "3n4/8/8/8/8/8/B7/8 w - -",
-        "Question": "Move the bishop to a square that will trap enemy knight and keep it from moving without being captured.",
+        "Question": "Move the bishop to a square that will trap enemy knight and keep it from moving without being captured. This is called 'corralling the knight'. ",
         "Answer": "Bd5"
     },
     {
