@@ -114,7 +114,7 @@ var puzzles = [{
         "Level": "Pawn",
         "Module": "Bishop Moves",
         "FEN": "8/p3p2p/1p1p2p1/R1P1B2B/8/8/8/8 w - -",
-        "Question": "All our pieces are under attack. Which one do we save? Think of which one is the most valuable.",
+        "Question": "All our pieces are under attack. Which one do we save? Try ranking them from least to most valuable.",
         "Answer": "the rook."
     },
     {
