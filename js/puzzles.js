@@ -534,7 +534,7 @@ var puzzles = [{
         "Level": "Bishop",
         "Module": "ABC's of the opening",
         "FEN": "r1bqk2r/pppp1ppp/2n2n2/6N1/1bB1P3/8/PB3PPP/RN1Q1RK1 b kq - 6 8",
-        "Question": "White played Ng5 attacking our position. How should we respond?",
+        "Question": "White played Ng5 attacking our position. How should we respond according to the ABC's?",
         "Answer": "0-0"
     },
     {
@@ -659,7 +659,7 @@ function addPuzzle() {
     '<p>(Level: ' + puzzles[numPuzzles].Level + '; Module: ' + puzzles[numPuzzles].Module + ')</p>'+'</div>';
     
     ChessBoard('board' + numPuzzles, {
-        draggable: true,
+        //draggable: true,
         position: puzzles[numPuzzles].FEN,
         showNotation: false,
     });
