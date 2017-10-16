@@ -9,7 +9,7 @@ var puzzles = [{
         "Level": "Pawn",
         "Module": "Pawn Moves",
         "FEN": "8/pp2p3/1p2Pp2/8/8/6p1/6P1/8 w - -",
-        "Question": "Now circle the squares each black pawn can move to. Keeping the same principles as the previous question in mind.",
+        "Question": "Now circle the squares each black pawn can move to. Keep the same principles as the previous question in mind.",
         "Answer": "a6, a5, b5, f5"
     },
     {
@@ -23,7 +23,7 @@ var puzzles = [{
         "Level": "Pawn",
         "Module": "Pawn Moves",
         "FEN": "8/8/8/8/8/3P4/3P4/8 w - -",
-        "Question": "What is it called when two pawns are stacked in the rank like this?  This is an important concept to remember.",
+        "Question": "What is it called when two pawns are stacked in the rank like this?  This is an important concept as we will see later.",
         "Answer": "Doubled pawns."
     },
     {
