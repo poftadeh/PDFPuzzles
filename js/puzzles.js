@@ -632,7 +632,7 @@ var puzzles = [{
         "Level": "Rook",
         "Module": "Magic if",
         "FEN": "3r2k1/p4ppp/8/8/8/2R1P3/P3QPPP/6K1 w - -",
-        "Question": "Of course d1 would be the best place to put a black queen, but what would be the next best square?  (Hint: find a place we can put the black queen that attacks the white rook and threatens mate at the same time)",
+        "Question": "Of course d1 would be the best place to put a black queen, but what would be the next best square?  (Hint: look for a double or triple attack)",
         "Answer": "Qc2"
     }
 ]
